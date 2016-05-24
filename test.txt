@@ -1,1 +1,1 @@
-Hello this is me testing git.
+Hello this is me testing git. And this is adding something to the file to make it longer.
